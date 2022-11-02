@@ -1,0 +1,10 @@
+.list {
+  list-style-type: none;;
+  margin: 45px auto 0 auto;
+  padding: 0;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  justify-content: center;
+  width: calc(100% - 384px);
+}

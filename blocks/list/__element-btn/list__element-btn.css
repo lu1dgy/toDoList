@@ -1,0 +1,13 @@
+.list__element-btn {
+  margin: 0;
+  padding: 0 ;
+  min-width: 28px;
+  height: 28px;
+  background-image: url(../../../images/trashbin.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 28px 28px;
+  background-color: #fff;
+  object-fit: contain;
+  border: 0;
+}
