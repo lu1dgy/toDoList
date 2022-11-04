@@ -7,4 +7,5 @@
   flex-direction: column;
   justify-content: center;
   width: calc(100% - 384px);
+  min-width: 300px;
 }
