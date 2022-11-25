@@ -3,7 +3,7 @@
 <h2>Description:</h2> 
 <p>Simple page made and designed by me</p>
 
-<h3>technologies:</h3>
+<h3>Technologies:</h3>
 <ul>
 <li>JavaScript</li>
 <li>CSS3</li>
