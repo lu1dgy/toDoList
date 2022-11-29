@@ -1,7 +1,7 @@
 <h1>toDoList</h1>
 
 <h2>Description:</h2> 
-<p>Simple page made and designed by me</p>
+<p>Simple page made and designed by me.</p>
 
 <h3>Technologies:</h3>
 <ul>
