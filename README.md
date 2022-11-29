@@ -11,7 +11,7 @@
 </ul>
 Link: https://lu1dgy.github.io/toDoList/;
 
-<h3>What i want to add</h3>
+<h3>What i want to add:</h3>
 <ul>
 <li>Make it adaptive</li>
 <li>Add drag-n-drop function</li>
